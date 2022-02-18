@@ -7,6 +7,7 @@
 1. if
 2. then
 3. else
+4. waht else?
 
 ## les boucles for
 
